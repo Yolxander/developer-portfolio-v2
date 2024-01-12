@@ -1,5 +1,5 @@
 <template>
-    <form id="contact-form" class="text-sm">
+    <form  @submit.prevent="sendEmail" id="contact-form" class="text-sm" ref="myForm">
         <div class="flex flex-col">
             <label for="name" class="mb-3">_name:</label>
             <input type="text" id="name-input" name="name" :placeholder="name" class="p-2 mb-5 placeholder-slate-600" required>
@@ -17,7 +17,7 @@
 </template>
 
 <script>
-
+import emailjs from "@emailjs/browser";
 
 export default {
     name: 'ContactForm',
@@ -33,6 +33,16 @@ export default {
         message: {
             type: String,
             required: true
+        }
+    },
+    methods: {
+        sendEmail() {
+            emailjs.sendForm('service_v98lvdp', 'template_65uhgzs', this.$refs.myForm, 'NxLLnhlEW3KDj2zPO')
+                .then((result) => {
+                    console.log('SUCCESS!', result.text);
+                }, (error) => {
+                    console.log('FAILED...', error.text);
+                });
         }
     },
     mounted() {

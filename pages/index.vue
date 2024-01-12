@@ -239,13 +239,7 @@
   }
 }
 
-@-webkit-keyframes typing { from { width: 0; } }
-@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
-h2 {
-	-webkit-animation: typing 7s steps(21, end),
-	blink-caret .5s step-end infinite alternate;
-}
 #hello {
 	display: flex;
 	height: 100%;
