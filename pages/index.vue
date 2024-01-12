@@ -9,7 +9,7 @@
 		
 			<div class="head">
 				<span>
-					Hi all, I am
+					Hi there, I am
 				</span>
 				<h1>{{ config.dev.name }}</h1>
 				<h2>> {{ config.dev.role }}</h2>
