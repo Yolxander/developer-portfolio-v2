@@ -15,36 +15,11 @@
 				<h2>> {{ config.dev.role }}</h2>
 			</div>
 
-			<div id="info">
-				<span class="action">
-					// complete the game to continue
-				</span>
-				<span :class="{hide: isMobile}">
-					// you can also see it on my Github page
-				</span>
-				<span :class="{hide: !isMobile}">
-					// find my profile on Github:
-				</span>
-				<p class="code">
-					<span class="identifier">
-						const
-					</span>
-					<span class="variable-name">
-						githubLink
-					</span>
-					<span class="operator">
-						=
-					</span>
-					<a class="string" :href="'https://github.com/' + config.public.dev.contacts.social.github.user">
-						"https://github.com/{{ config.public.dev.contacts.social.github.user }}"
-					</a>
-				</p>
-			</div>
 		</section>
 
-		<section data-aos="fade-up" class="game" v-if="!isMobile">
-			<SnakeGame />
-		</section>
+<!--		<section data-aos="fade-up" class="game" v-if="!isMobile">-->
+<!--			<SnakeGame />-->
+<!--		</section>-->
 
 	</main>
 </template>
@@ -55,8 +30,6 @@
   display: flex;
   height: 100%;
   width: 100%;
-  flex: 1 1 auto;
-  padding-left: 275px;
   overflow: hidden;
   /* padding-top: 5rem; */ /* 80px */
 }
@@ -78,6 +51,8 @@
 #hello .hero {
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	/* display: grid;
 	grid-template-columns: repeat(12, minmax(0, 1fr)); */
 	margin: 0rem;
@@ -103,7 +78,7 @@
 #hello .head h2 {
   font-size: 32px;
   line-height: 1;
-  color: #4D5BCE;
+  color: #E5E9F0;
   font-family: 'Fira Code Retina';
 }
 

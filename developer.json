@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Yolxander Jaca",
+    "logo_name": "yolxander",
+    "role": "Full Stack Developer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the past 5 years, I have honed my skills as a Full Stack Developer, specializing in both front-end and back-end technologies. My expertise includes Vue.js.React.js, PHP, Laravel, and AWS, among others. I have contributed significantly to various high-volume web applications, integrating fraud algorithms, optimizing system performance, and enhancing UI/UX design. My experience at companies like HumanContact, Esiance, and Agency5 showcases my ability to develop cross-browser compatible web apps, improve system accuracy and performance, and create essential features like reward and payment systems. My journey reflects a commitment to delivering quality solutions and driving technological innovation.."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Full Stack Developer, I possess a strong skill set in both front-end and back-end technologies. My front-end skills include proficiency in React.js, Vue.js, JavaScript, Livewire, and Tailwindcss, enabling me to create responsive and visually appealing user interfaces. On the back-end, I am skilled in PHP, Python, Laravel and Vue.js which allows me to develop robust and scalable web applications. Additionally, my expertise in database management with SQL, MySQL and ORM, coupled with my knowledge in DevOps using Docker, Git, and CI/CD practices, ensures comprehensive development solutions. I also have experience with cloud services like AWS and DigitalOcean, enhancing my ability to deploy and manage applications efficiently."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I bring a wealth of soft skills developed over my career as a Full Stack Developer. My experience has honed my abilities in areas such as rapid career progression, evidenced by becoming the fastest-promoted employee at HumanContact. I have a proven track record in mentoring junior developers, guiding them to work independently on projects. My collaborative skills are highlighted by my close work with design teams to bring ideas to life. Additionally, my roles have demanded high-level problem-solving, strong communication skills, and a keen ability to adapt to fast-paced, changing environments."
                     }
                 }
             },
@@ -28,18 +28,17 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> As a dedicated Full Stack Developer, I bring over 5 years of robust experience in creating innovative web solutions. My journey has been marked by a commitment to excellence, as evidenced by my track record in delivering high-quality, user-centric products.<br><br> My expertise spans a wide array of technologies and platforms, ensuring versatile and scalable web applications. My role at HumanContact, where I led the development of a transformative event platform, highlights my ability to mentor, innovate, and rapidly adapt to new challenges.\n\nIn each of my roles, I have successfully enhanced user experiences and system usability, often exceeding performance targets.<br><br> My contributions to key projects at Esiance and Agency5 further demonstrate my skill in optimizing web applications and integrating essential systems like fraud algorithms and payment processing.<br><br> I am eager to leverage my diverse skill set and technical prowess in a dynamic new environment, where I can continue to drive growth and innovation."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>In my professional life, I am deeply invested in continuous learning and exploring cutting-edge technologies, particularly in web development and automation. I enjoy engaging in small Python projects, utilizing them as a creative outlet to refine my skills. Automation fascinates me, and I often explore ways to implement AI chatbots and streamline development processes for increased efficiency.<br><br>Beyond my professional pursuits, I have a keen interest in blockchain technology. My curiosity has led me to learn the basics of Solidity and continuously delve deeper into the blockchain world, understanding its applications and potential. This interest complements my tech-centric lifestyle, keeping me aligned with the latest advancements and innovations in the tech sphere."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>My educational background in Biomedical Engineering from Centennial College (2015-2019) and Bioinformatics from IPQI Martires de Giron (2011-2014) has been instrumental in shaping my analytical and problem-solving skills.<br><br>  This unique combination of engineering and bioinformatics has provided me with a comprehensive understanding of complex systems, enhancing my capabilities as a Full Stack Developer. My journey through these rigorous programs reflects my passion for merging technology with practical applications, preparing me for the multifaceted challenges in the tech world.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+
                         }
                     }
                 }
@@ -50,11 +49,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am an avid sports enthusiast, passionately following and participating in various athletic activities. My enthusiasm for esports keeps me engaged with the dynamic and exciting world of competitive gaming. In addition to my virtual interests, I actively participate in physical sports as well. During the summer, I enjoy the outdoor experience and team spirit of playing softball, a game that not only challenges me physically but also fosters camaraderie and teamwork."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>I really enjoy gaming, both on-screen and on the table. Playing Apex Legends, where I've reached master level, is always a fun challenge. The God of War series is another of my favorites, with its great stories and gameplay. When it comes to tabletop games, dominoes and the \"EXIT\" company's Escape Rooms are my go-to. Working through their puzzles has been a really enjoyable experience, blending a bit of strategy with a lot of fun.."
                     }
                 }
             }
@@ -64,15 +63,15 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "yolxander@gmail.com",
+                "phone": "647-785-5976"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "Yolxander/Yolxander"
             },
             "facebook": {
                 "title": "Facebook profile",
@@ -86,28 +85,9 @@
             }
         },
         "find_me_also_in": {
-            "title": "find-me-also-in",
+            "title": "",
             "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
-                "instagram": {
-                    "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
-                },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
+
             }
         }
     },
