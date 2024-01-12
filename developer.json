@@ -97,46 +97,32 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "title": "Merjj",
+            "description": "Merjj utilizes a blend of tangible and digital components to metamorphose programs and events into immersive virtual realities.",
+            "img": "/images/projects/merjj.png",
+            "tech": ["Laravel", "AWS", "LAMP","Vue"],
+            "url": "https://merjj.com/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "title": "Everything Card",
+            "description": "EverythingCard is a versatile corporate gifting and employee recognition platform that offers a wide selection of gift cards from leading brands.",
+            "img": "/images/projects/everythingcard.png",
+            "tech": ["HTML5", "CSS3", "JavaScript", "PHP"],
+            "url": "https://www.everythingcard.ca/"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "title": "Toemar",
+            "description": "Toemar Landscape and Garden Supplies is a family-owned business providing a comprehensive range of landscaping products and services.",
+            "img": "/images/projects/toemar.png",
+            "tech": ["HTML", "CSS", "JavaScript", "PHP"],
+            "url": "https://www.toemar.ca/"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+            "title": "Scholarships Canada",
+            "description": "ScholarshipsCanada.com is an online resource that simplifies the process of finding scholarships, bursaries, and awards for students across a broad range of disciplines and backgrounds.",
+            "img": "/images/projects/scholarshipscanada.png",
+            "tech": ["HTML", "CSS", "JavaScript", "PHP"],
+            "url": "https://www.scholarshipscanada.com/Scholarships/Browse-Scholarships.aspx"
         }
     }
 }

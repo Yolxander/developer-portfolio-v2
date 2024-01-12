@@ -26,13 +26,6 @@
 
 <style>
 
-#hello { 
-  display: flex;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-  /* padding-top: 5rem; */ /* 80px */
-}
 .hero {
 	width: 100%;
 	justify-content: center;
@@ -244,6 +237,21 @@
     border-radius: 100% 0% 0% 0%;
     rotate: 20deg;
   }
+}
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+h2 {
+	-webkit-animation: typing 7s steps(21, end),
+	blink-caret .5s step-end infinite alternate;
+}
+#hello {
+	display: flex;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	/* padding-top: 5rem; */ /* 80px */
 }
 
 @media (min-width: 1920px){

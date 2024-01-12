@@ -65,9 +65,9 @@
 
         <div id="project" v-for="(project, key, index) in projects" :key="key" class="lg:mx-5">
           <!-- title -->
-          <span class="flex text-sm my-3">
-            <h3 v-if="index == null" class="text-purplefy font-fira_bold mr-3">Project {{ key + 1 }}</h3>
-            <h3 v-else class="text-purplefy font-fira_bold mr-3">Project {{ index + 1 }}</h3>
+          <span class="flex text-sm my-3" >
+            <h3 v-if="index == null" class="text-purplefy font-fira_bold mr-2">Project {{ key + 1 }}</h3>
+            <h3 v-else class="text-purplefy font-fira_bold mr-2">Project {{ index + 1 }}</h3>
             <h4 class="font-fira_retina text-menu-text"> // {{ project.title }}</h4>
           </span>
 
@@ -128,7 +128,7 @@
 }
 
 #project-card {
-  border: 1px solid #1E2D3D;
+  border: 1px solid white;
   background-color: #011221;
   border-radius: 15px;
   max-width: 400px;
@@ -254,7 +254,7 @@ export default {
   },
   data() {
     return {
-      techs: ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'Gatsby', 'Flutter'],
+      techs: ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'AWS', 'Laravel','PHP'],
       filters: ['all'],
       projects: '',
       loading: true,

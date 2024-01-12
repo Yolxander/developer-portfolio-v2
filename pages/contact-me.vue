@@ -25,12 +25,12 @@
 
             <!-- find me also in -->
             <div id="find-me-in" class="submenu border-top">
-                <div class="title" @click="open('find-me-in')">
-                    <img class="arrow" src="/icons/arrow.svg">
-                    <h3>
-                        find-me-also-in
-                    </h3>
-                </div>
+<!--                <div class="title" @click="open('find-me-in')">-->
+<!--&lt;!&ndash;                    <img class="arrow" src="/icons/arrow.svg">&ndash;&gt;-->
+<!--                    <h3>-->
+
+<!--                    </h3>-->
+<!--                </div>-->
                 <div id="links">
                     <div v-for="(source, key) in contact.find_me_also_in.sources" :key="key" class="link">
                         <img src="/icons/link.svg">
@@ -98,15 +98,15 @@ export default {
     methods: {
         open(elementId) {
             const element = document.getElementById(elementId);
-            const arrow = element.querySelector('.arrow');
+            // const arrow = element.querySelector('.arrow');
             const links = element.querySelector('#links');
 
             if (links.style.display === 'block') {
                 links.style.display = 'none';
-                arrow.style.transform = 'rotate(0deg)';
+                // arrow.style.transform = 'rotate(0deg)';
             } else {
                 links.style.display = 'block';
-                arrow.style.transform = 'rotate(90deg)';
+                // arrow.style.transform = 'rotate(90deg)';
             }
         }
     },
@@ -140,7 +140,7 @@ export default {
         for (let i = 0; i < links.length; i++) {
             if(window.innerWidth > 1024){ 
                 links[i].querySelector("#links").style.display = "block";
-                links[i].querySelector(".arrow").style.transform = "rotate(90deg)";
+                // links[i].querySelector(".arrow").style.transform = "rotate(90deg)";
             } else {
                 links[i].querySelector("#links").style.display = "none";
             }
@@ -151,12 +151,12 @@ export default {
 
 <style>
 
-.arrow {
-    transition: 0.1s;
-    margin-right: 10px;
-    width: 9px;
-    height: 9px;
-}
+/*.arrow {*/
+/*    transition: 0.1s;*/
+/*    margin-right: 10px;*/
+/*    width: 9px;*/
+/*    height: 9px;*/
+/*}*/
 
 .submenu {
     display: flex;

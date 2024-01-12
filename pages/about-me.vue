@@ -183,7 +183,7 @@
   width: 5rem; /* 80px */
   height: 100%;
   display: none;
-  border-right: 1px solid #1E2D3D;
+  border-right: 1px solid white;
 }
 
 /* LG */
