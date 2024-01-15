@@ -254,7 +254,7 @@ export default {
   },
   data() {
     return {
-      techs: ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'AWS', 'Laravel','PHP'],
+      techs: ['React', 'HTML', 'CSS', 'Vue', 'MYSQL', 'Laravel','PHP'],
       filters: ['all'],
       projects: '',
       loading: true,

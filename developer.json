@@ -10,11 +10,11 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, I have honed my skills as a Full Stack Developer, specializing in both front-end and back-end technologies. My expertise includes Vue.js.React.js, PHP, Laravel, and AWS, among others. I have contributed significantly to various high-volume web applications, integrating fraud algorithms, optimizing system performance, and enhancing UI/UX design. My experience at companies like HumanContact, Esiance, and Agency5 showcases my ability to develop cross-browser compatible web apps, improve system accuracy and performance, and create essential features like reward and payment systems. My journey reflects a commitment to delivering quality solutions and driving technological innovation.."
+                        "description": "<br>Over the past 5 years, I have honed my skills as a Full Stack Developer, specializing in both front-end and back-end technologies. My expertise includes Vue.js.React.js, PHP, Laravel, and MYSQL, among others. I have contributed significantly to various high-volume web applications, integrating fraud algorithms, optimizing system performance, and enhancing UI/UX design. My experience at companies like HumanContact, Esiance, and Agency5 showcases my ability to develop cross-browser compatible web apps, improve system accuracy and performance, and create essential features like reward and payment systems. My journey reflects a commitment to delivering quality solutions and driving technological innovation.."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a Full Stack Developer, I possess a strong skill set in both front-end and back-end technologies. My front-end skills include proficiency in React.js, Vue.js, JavaScript, Livewire, and Tailwindcss, enabling me to create responsive and visually appealing user interfaces. On the back-end, I am skilled in PHP, Python, Laravel and Vue.js which allows me to develop robust and scalable web applications. Additionally, my expertise in database management with SQL, MySQL and ORM, coupled with my knowledge in DevOps using Docker, Git, and CI/CD practices, ensures comprehensive development solutions. I also have experience with cloud services like AWS and DigitalOcean, enhancing my ability to deploy and manage applications efficiently."
+                        "description": "<br>As a Full Stack Developer, I possess a strong skill set in both front-end and back-end technologies. My front-end skills include proficiency in React.js, Vue.js, JavaScript, Livewire, and Tailwindcss, enabling me to create responsive and visually appealing user interfaces. On the back-end, I am skilled in PHP, Python, Laravel and Vue.js which allows me to develop robust and scalable web applications. Additionally, my expertise in database management with SQL, MySQL and ORM, coupled with my knowledge in DevOps using Docker, Git, and CI/CD practices, ensures comprehensive development solutions. I also have experience with cloud services like MYSQL and DigitalOcean, enhancing my ability to deploy and manage applications efficiently."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
@@ -73,15 +73,10 @@
                 "url": "https://github.com/",
                 "user": "Yolxander"
             },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
-            },
-            "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
+            "linkedin": {
+                "title": "Linkedin profile",
+                "url": "https://www.linkedin.com/in/",
+                "user": "yolxander-jaca"
             }
         },
         "find_me_also_in": {
@@ -100,28 +95,28 @@
             "title": "Merjj",
             "description": "Merjj utilizes a blend of tangible and digital components to metamorphose programs and events into immersive virtual realities.",
             "img": "/images/projects/merjj.png",
-            "tech": ["Laravel", "AWS", "LAMP","Vue"],
+            "tech": ["Laravel","MYSQL","Vue","React"],
             "url": "https://merjj.com/"
         },
         "2": {
             "title": "Everything Card",
             "description": "EverythingCard is a versatile corporate gifting and employee recognition platform that offers a wide selection of gift cards from leading brands.",
             "img": "/images/projects/everythingcard.png",
-            "tech": ["HTML5", "CSS3", "JavaScript", "PHP"],
+            "tech": ["MYSQL","PHP","React","laravel"],
             "url": "https://www.everythingcard.ca/"
         },
         "3": {
             "title": "Toemar",
             "description": "Toemar Landscape and Garden Supplies is a family-owned business providing a comprehensive range of landscaping products and services.",
             "img": "/images/projects/toemar.png",
-            "tech": ["HTML", "CSS", "JavaScript", "PHP"],
+            "tech": ["CSS","React","PHP"],
             "url": "https://www.toemar.ca/"
         },
         "4": {
             "title": "Scholarships Canada",
             "description": "ScholarshipsCanada.com is an online resource that simplifies the process of finding scholarships, bursaries, and awards for students across a broad range of disciplines and backgrounds.",
             "img": "/images/projects/scholarshipscanada.png",
-            "tech": ["HTML", "CSS", "JavaScript", "PHP"],
+            "tech": ["CSS","HTML","PHP"],
             "url": "https://www.scholarshipscanada.com/Scholarships/Browse-Scholarships.aspx"
         }
     }

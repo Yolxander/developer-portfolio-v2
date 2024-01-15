@@ -4,12 +4,11 @@
         <!-- social icons -->
         <div class="w-full flex justify-between md:justify-start">
             <span id="social-title" class="h-full flex justify-center items-center border-right px-5">
-                Download:
+                Find me at:
             </span>
             <div id="social-icons" class="flex">
-                <NuxtLink class="flex justify-center items-center cursor-pointer">
-<!--                    <img src="/icons/social/twitter.svg"/>-->
-                    CSV
+                <NuxtLink :to="social.linkedin.url + social.linkedin.user" target="_blank" class="flex justify-center items-center">
+                    <img src="/icons/social/linkedin.svg"/>
                 </NuxtLink>
 <!--                <NuxtLink :to="social.facebook.url + social.facebook.user" target="_blank" class="flex justify-center items-center">-->
 <!--                    <img src="/icons/social/facebook.svg"/>-->
@@ -89,6 +88,22 @@ export default {
     data() {
         return {
           route: this.$route.path,
+            pdfUrl: '../../assets/Yolxander_Jaca_Resume.pdf',
+            pdfFileName: 'Yolxander_Jaca_Resume.pdf'
+        }
+    },
+    methods: {
+        downloadPdf() {
+            // create element <a> for download PDF
+            const link = document.createElement('a');
+            link.href = this.pdfUrl;
+            link.target = '_blank';
+            link.download = this.pdfFileName;
+
+            // Simulate a click on the element <a>
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
         }
     },
     setup() {

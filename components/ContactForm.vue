@@ -40,9 +40,13 @@ export default {
             emailjs.sendForm('service_v98lvdp', 'template_65uhgzs', this.$refs.myForm, 'NxLLnhlEW3KDj2zPO')
                 .then((result) => {
                     console.log('SUCCESS!', result.text);
+                    this.resetForm();
                 }, (error) => {
                     console.log('FAILED...', error.text);
                 });
+        },
+        resetForm() {
+            this.$refs.myForm.reset();
         }
     },
     mounted() {
