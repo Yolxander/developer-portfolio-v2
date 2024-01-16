@@ -6,12 +6,12 @@
 
             <div class="flex">
                 <!-- avatar -->
-                <img :src="gist.owner.avatar_url" alt="" class="w-8 h-8 rounded-full mr-2">
+                <img src="https://avatars.githubusercontent.com/u/56163383?v=4" alt="" class="w-8 h-8 rounded-full mr-2">
     
                 <!-- username & gist date info -->
                 <div class="flex flex-col">
-                    <a id="username" :href="'https://github.com/' + gist.owner.login" target="_blank" class="font-fira_bold text-purple-text text-xs pb-1 hover:cursor-pointer">
-                        @{{ gist.owner.login }}
+                    <a id="username" href="https://github.com/yolxander" target="_blank" class="font-fira_bold text-purple-text text-xs pb-1 hover:cursor-pointer">
+                        @Yolxander
                     </a>
                     <p class="font-fira_retina text-xs text-menu-text">Created {{ monthsAgo }} months ago</p>
                 </div>
@@ -148,14 +148,15 @@ export default {
             return snippet
         },
         async setComments(comments_url){
-            let response = await fetch(comments_url)
-            let data = await response.json()
-            try{
-                let body = data[0].body
-                return body
-            } catch {
-                console.log(`no comments found on ${comments_url}`)
-            }
+            // let response = await fetch(comments_url)
+            // let data = await response.json()
+            // try{
+            //     let body = data[0].body
+            //     return body
+            // } catch {
+            //     console.log(`no comments found on ${comments_url}`)
+            // }
+            console.log(`no comments found on ${comments_url}`)
         },
         showComment(id) {
             let comment = document.getElementById('comment' + id)

@@ -68,5 +68,6 @@ export default {
   width: 100%;
   padding-left: 10px;
   word-wrap: break-word;
+    color: whitesmoke;
 }
 </style>
