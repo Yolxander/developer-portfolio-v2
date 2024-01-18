@@ -118,6 +118,21 @@
             "img": "/images/projects/scholarshipscanada.png",
             "tech": ["CSS","HTML","PHP"],
             "url": "https://www.scholarshipscanada.com/Scholarships/Browse-Scholarships.aspx"
+        },
+        "5": {
+            "title": "Premium Natural Wood Charcoal",
+            "description": "This site is about Premium Cuban Marabú Charcoal, known for its superior quality and eco-friendly production.",
+            "img": "/images/projects/charcoal.png",
+            "tech": ["CSS","Vue"],
+            "url": "https://www.scholarshipscanada.com/Scholarships/Browse-Scholarships.aspx"
+        }
+    ,
+        "6": {
+            "title": "Jonex Solutions Corp Website",
+            "description": "Jonex Solutions Corp presents a straightforward website showcasing its range of services and offerings. This site serves as a digital gateway to the company's expertise in importing to Latino America continent.",
+            "img": "/images/projects/jonex.png",
+            "tech": ["HTML","PHP"],
+            "url": "https://www.jonex.ca/"
         }
     }
 }
