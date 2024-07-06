@@ -25,7 +25,7 @@
             "personal-info": {
                 "title": "personal-info",
                 "icon": "icons/info-personal.svg",
-                "info": { 
+                "info": {
                     "bio": {
                         "title": "bio",
                         "description": "Hi there! I'm a Full Stack Developer with over 5 years of fun and challenging experiences in crafting cool web solutions. My journey's been all about putting my heart into my work and aiming for the stars. I love delivering products that make users smile and say 'wow!'\n\nI've got a toolbox full of skills in various technologies and platforms, which means I can whip up web applications that are not just smart but also flexible. At HumanContact, I was the go-to person for building an awesome event platform. It was a blast guiding my team, coming up with nifty ideas, and tackling new challenges head-on. I've always aimed to make things easier and more enjoyable for users, and I'm proud to say I often hit the bullseye.\n\nI also had the chance to sprinkle some magic at Esiance and Agency5, where I worked on making web applications smoother and integrating cool stuff like anti-fraud systems and payment processes.\n\nNow, I'm super excited to bring my bag of tricks to a new place, where I can keep on making a difference and explore new horizons in tech. Let's create something amazing together."
@@ -95,29 +95,29 @@
             "title": "Merjj",
             "description": "Merjj utilizes a blend of tangible and digital components to metamorphose programs and events into immersive virtual realities.",
             "img": "/images/projects/merjj.png",
-            "tech": ["Laravel","MYSQL","Vue","React"],
+            "tech": ["Laravel","PHP","MYSQL","Vue"],
             "url": "https://merjj.com/"
         },
         "2": {
             "title": "Everything Card",
             "description": "EverythingCard is a versatile corporate gifting and employee recognition platform that offers a wide selection of gift cards from leading brands.",
             "img": "/images/projects/everythingcard.png",
-            "tech": ["MYSQL","PHP","React","laravel"],
+            "tech": ["Laravel","PHP","MYSQL","React"],
             "url": "https://www.everythingcard.ca/"
         },
         "3": {
             "title": "Toemar",
             "description": "Toemar Landscape and Garden Supplies is a family-owned business providing a comprehensive range of landscaping products and services.",
             "img": "/images/projects/toemar.png",
-            "tech": ["CSS","React","PHP"],
+            "tech": ["Laravel","PHP","CSS","React"],
             "url": "https://www.toemar.ca/"
         },
         "4": {
-            "title": "Scholarships Canada",
-            "description": "ScholarshipsCanada.com is an online resource that simplifies the process of finding scholarships, bursaries, and awards for students across a broad range of disciplines and backgrounds.",
-            "img": "/images/projects/scholarshipscanada.png",
-            "tech": ["CSS","HTML","PHP"],
-            "url": "https://www.scholarshipscanada.com/Scholarships/Browse-Scholarships.aspx"
+            "title": "Northe Simcoe PM",
+            "description": "North Simcoe PM specializes in comprehensive property management services within Simcoe County. Their mission is to alleviate the daily challenges of property ownership for landlords, allowing them to reap the rewards of their real estate investments without the associated headaches.",
+            "img": "/images/projects/North Simcoe PM.png",
+            "tech": ["Laravel","PHP","CSS","HTML"],
+            "url": "https://northsimcoepm.com/"
         },
         "5": {
             "title": "Premium Natural Wood Charcoal",
@@ -131,7 +131,7 @@
             "title": "Jonex Solutions Corp Website",
             "description": "Jonex Solutions Corp presents a straightforward website showcasing its range of services and offerings. This site serves as a digital gateway to the company's expertise in importing to Latino America continent.",
             "img": "/images/projects/jonex.png",
-            "tech": ["HTML","PHP"],
+            "tech": ["PHP","HTML"],
             "url": "https://www.jonex.ca/"
         }
     }
